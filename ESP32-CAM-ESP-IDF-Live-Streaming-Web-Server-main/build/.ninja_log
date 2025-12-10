@@ -1,0 +1,45 @@
+# ninja log v6
+138	208	7870453514477474	project_elf_src_esp32.c	33213eb7d17542f7
+138	208	7870453514477474	C:/Users/nicol/Documents/documentos nicolas/esp/autonomous_vehicle_using_face_detection/ESP32-CAM-ESP-IDF-Live-Streaming-Web-Server-main/build/project_elf_src_esp32.c	33213eb7d17542f7
+115	246	7870453514891452	esp-idf/esp_system/ld/sections.ld.in	9548e23a5afdeb8a
+115	246	7870453514891452	C:/Users/nicol/Documents/documentos nicolas/esp/autonomous_vehicle_using_face_detection/ESP32-CAM-ESP-IDF-Live-Streaming-Web-Server-main/build/esp-idf/esp_system/ld/sections.ld.in	9548e23a5afdeb8a
+105	247	7870453514911397	esp-idf/esp_system/ld/memory.ld	dee88a8e62f31917
+105	247	7870453514911397	C:/Users/nicol/Documents/documentos nicolas/esp/autonomous_vehicle_using_face_detection/ESP32-CAM-ESP-IDF-Live-Streaming-Web-Server-main/build/esp-idf/esp_system/ld/memory.ld	dee88a8e62f31917
+262	1314	7870453515170703	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_parse.c.obj	2669e778f81899f5
+255	1350	7870453515060996	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_main.c.obj	a8e0460495604f97
+283	1560	7870453515360206	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_sess.c.obj	198daa2865a731ab
+311	1588	7870453515639463	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_uri.c.obj	75c953ec01ee3232
+294	1603	7870453515539724	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_txrx.c.obj	ea68dc051319b3e8
+124	1699	7870453515370182	partition_table/partition-table.bin	597c07531ff6057
+124	1699	7870453515370182	C:/Users/nicol/Documents/documentos nicolas/esp/autonomous_vehicle_using_face_detection/ESP32-CAM-ESP-IDF-Live-Streaming-Web-Server-main/build/partition_table/partition-table.bin	597c07531ff6057
+248	1743	7870453514991175	esp-idf/esp_https_ota/CMakeFiles/__idf_esp_https_ota.dir/src/esp_https_ota.c.obj	3c74e92505bfcd35
+331	1779	7870453515828941	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/httpd_ws.c.obj	152764a9c49e9b62
+1588	2270	7870453528398754	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_header.c.obj	47e024094fdb7269
+1604	2309	7870453528558344	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_utils.c.obj	76581e940ca5f7d2
+1323	2322	7870453525745630	esp-idf/esp_http_server/CMakeFiles/__idf_esp_http_server.dir/src/util/ctrl_sock.c.obj	2a1c79031167c1db
+1564	2754	7870453528149439	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/lib/http_auth.c.obj	e4007005c1128614
+1746	3051	7870453529965904	esp-idf/esp_https_ota/libesp_https_ota.a	18d9d051531bb70
+1699	3066	7870453529531193	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport.c.obj	fda35d4da5cc6278
+1782	3199	7870453530340006	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_ssl.c.obj	bb6433f8c3b586ca
+1384	3236	7870453526359095	esp-idf/esp_http_client/CMakeFiles/__idf_esp_http_client.dir/esp_http_client.c.obj	1932899cfd779f3b
+2311	3322	7870453535626137	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_socks_proxy.c.obj	acf528d6cede1266
+2756	3596	7870453540075356	esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/system_layer/esp_psram.c.obj	a30c668cc6faa17f
+3074	3658	7870453543356804	esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/esp32/esp_psram_extram_cache.c.obj	d01903101302146f
+2272	3717	7870453535297012	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_internal.c.obj	7cd85139cb7acc6d
+2327	3796	7870453535795677	esp-idf/tcp_transport/CMakeFiles/__idf_tcp_transport.dir/transport_ws.c.obj	2289f4d62bb514a2
+3054	3871	7870453543047625	esp-idf/esp_http_server/libesp_http_server.a	e0c5a217f37c9890
+3209	3894	7870453544601484	esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/esp32/esp_himem.c.obj	111be7dc6ceea184
+3670	4172	7870453549209396	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_cali.c.obj	4601cecd03eda816
+3720	4315	7870453549743084	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_cali_curve_fitting.c.obj	2d3101ec4aeedb3a
+3323	4365	7870453545748410	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_oneshot.c.obj	ba6e236b1b6f25a7
+3601	4396	7870453548521234	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_common.c.obj	f26eb9f2c8474a25
+3832	4545	7870453550939882	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/deprecated/esp_adc_cal_common_legacy.c.obj	e2d520abf7c69c2a
+3876	4642	7870453551308895	esp-idf/esp_http_client/libesp_http_client.a	7a9870c3670b492c
+3237	4849	7870453544880750	esp-idf/esp_psram/CMakeFiles/__idf_esp_psram.dir/esp32/esp_psram_impl_quad.c.obj	8c8b062e456f7cfd
+3905	5091	7870453551568201	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/adc_continuous.c.obj	6424d74207e9a497
+4175	5114	7870453554350769	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/esp32/adc_dma.c.obj	f512db9d419491db
+4338	5121	7870453556073301	esp-idf/esp_adc/CMakeFiles/__idf_esp_adc.dir/esp32/adc_cali_line_fitting.c.obj	1a4ebc2965ed34f3
+4549	5128	7870453558009269	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp-tls-crypto/esp_tls_crypto.c.obj	14a4cc58f43cf3d3
+4657	5286	7870453559078735	esp-idf/tcp_transport/libtcp_transport.a	a8d4318d890245b3
+4857	5479	7870453561098798	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls_error_capture.c.obj	61bdb11497e1bcd2
+4397	5585	7870453556482207	esp-idf/esp-tls/CMakeFiles/__idf_esp-tls.dir/esp_tls.c.obj	606c006e80938775
