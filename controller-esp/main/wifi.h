@@ -3,8 +3,8 @@
 
 #include <stdio.h>
 
-#define WIFI_SSID   "FAJARDO"
-#define WIFI_PASS   "10Piratas123"
+#define WIFI_SSID   "YOUR_SSID"
+#define WIFI_PASS   "YOUR_PASSWORD"
 #define PORT 3333
 
 extern float posX;
